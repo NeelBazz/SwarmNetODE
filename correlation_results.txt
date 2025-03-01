@@ -1,0 +1,2 @@
+Correlation between Clustering Coefficient and Max |x_i|: 0.0169
+Correlation between Lambda_2 and Max |x_i|: 0.1015
